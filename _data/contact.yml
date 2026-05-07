@@ -9,3 +9,6 @@
 - type: colivingscore
   icon: "fas fa-chart-bar"
   url: "https://colivingscore.com"
+- type: colivingfurnish
+  icon: "fas fa-couch"
+  url: "https://colivingfurnish.com"
