@@ -3,6 +3,7 @@ title: "The Intelligence Gap I Decided to Fill"
 date: 2026-05-13 00:00:00 -0500
 categories: [Real Estate, Newsletter]
 tags: [co-living, newsletter, operators, regulation]
+description: "co-living newsletter to inform operators on latest market conditions"
 author: Ralph Pombo
 ---
 
