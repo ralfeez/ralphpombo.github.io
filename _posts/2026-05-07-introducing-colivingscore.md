@@ -3,6 +3,7 @@ title: "Introducing CoLivingScore: Free Market Analysis Tools for Co-Living Oper
 date: 2026-05-07 01:00:00 -0500
 categories: [Real Estate, Tools]
 tags: [co-living, tools, market analysis, investing]
+description: "Free Market Analysis Tools for Co-Living Operators"
 author: Ralph Pombo
 ---
 
