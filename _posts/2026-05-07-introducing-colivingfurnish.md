@@ -3,6 +3,7 @@ title: "Introducing the Co-Living Furnishing Estimator: Know Your Startup Costs 
 date: 2026-05-07 02:00:00 -0500
 categories: [Real Estate, Tools]
 tags: [co-living, tools, furnishing, startup costs, investing]
+description: "Co-Living Furnishing Estimator: Know Your Startup Costs Before You Commit"
 author: Ralph Pombo
 ---
 
