@@ -3,6 +3,7 @@ title: "Wrong Market, Wrong Investment: The Framework Co-Living Operators Need B
 date: 2026-05-07 00:00:00 -0500
 categories: [Real Estate, Co-Living]
 tags: [co-living, market selection, real estate investing, housing]
+description: "Framework Co-Living Operators Need Before Choosing Where to Invest"
 author: Ralph Pombo
 ---
 
