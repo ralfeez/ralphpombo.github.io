@@ -17,4 +17,4 @@ This white paper covers each of the six Market Killers in full: what they are,
 why they matter, what pass and fail look like, and how to identify them before 
 you write an offer.
 
-[Download the White Paper](/assets/MarketKillers_WhitePaper.docx){: .button}
+[Download the White Paper](/assets/MarketKillers_WhitePaper.docx)
