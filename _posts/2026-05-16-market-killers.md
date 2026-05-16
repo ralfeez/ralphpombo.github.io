@@ -3,7 +3,7 @@ title: "Market Killers: The Six Conditions That Will Kill Your Co-Living Investm
 permalink: /market-killers/
 date: 2026-05-16 00:00:00 -0500
 categories: [Real Estate, Market]
-tags: [co-living, newsletter, operators, regulation]
+tags: [co-living, market, operators, regulation]
 description: "Co-living home market evaluation"
 author: Ralph Pombo
 ---
