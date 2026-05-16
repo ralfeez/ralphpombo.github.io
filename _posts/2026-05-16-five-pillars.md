@@ -7,6 +7,10 @@ tags: [co-living, market, operators, regulation]
 description: "Co-living home market viability evaluation"
 author: Ralph Pombo
 ---
+Finding a market that looks promising is not the same as finding a market that works. There is no shortage of
+cities with housing demand, growing populations, and affordable acquisition prices. The harder question — the
+one most investors answer too quickly, with too little information — is whether a specific market can support a
+co-living operation that generates consistent returns over a multi-year investment horizon.
 
 The Five Pillars framework exists to answer that question systematically. It breaks market viability into five
 distinct dimensions — each one independently important, each one carrying a different weight in the final
