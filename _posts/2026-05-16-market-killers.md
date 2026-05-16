@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Market Killers: The Six Conditions That Will Kill Your Co-Living Investment"
 permalink: /market-killers/
 date: 2026-05-16 00:00:00 -0500
