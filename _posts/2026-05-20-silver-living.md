@@ -2,7 +2,7 @@
 title: "Silver Living (55+): The Case for Co-Living as the Defining Housing Solution
 for an Aging America"
 permalink: /silver-living/
-date: 2026-05-21 00:00:00 -0500
+date: 2026-05-20 00:00:00 -0500
 categories: [Real Estate, Market]
 tags: [co-living, market, operators, guests, tenants, silver living]
 description: "Co-living silver living guest type"
