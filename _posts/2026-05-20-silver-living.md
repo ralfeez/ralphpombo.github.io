@@ -5,7 +5,7 @@ permalink: /silver-living/
 date: 2026-05-20 00:00:00 -0500
 categories: [Real Estate, Market]
 tags: [co-living, market, operators, guests, tenants, silver living]
-description: description: "Why 55+ adults are the most underserved co-living segment — strong payment history, low turnover, and compelling demand economics explained."
+description: "Why 55+ adults are the most underserved co-living segment — strong payment history, low turnover, and compelling demand economics explained."
 author: Ralph Pombo
 ---
 Silver Living — co-living designed specifically for adults 55 and older — sits at the intersection of two
