@@ -8,7 +8,7 @@ description: "A Practitioner's Framework for Evaluating Markets Before You Commi
 author: Ralph Pombo
 ---
 # THE FIVE PILLARS OF CO-LIVING MARKET VIABILITY
-## A Practitioner's Framework for Evaluating Markets Before You Commit Capital
+## A Practitioner's Framework for Evaluating Co-Living Markets Before You Commit Capital
 
 **By Ralph Pombo**
 *Real Estate Investor | Co-Living Operator | Framework Developer*
