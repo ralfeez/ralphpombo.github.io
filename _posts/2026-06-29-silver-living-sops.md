@@ -1,25 +1,10 @@
 ---
-title: "Silver Living (55+) Master SOP Collection"
+title: Silver Living (55+) Master SOP Collection
 permalink: /silver-living-sops/
 date: 2026-06-29 00:00:00 -0500
 categories: [Real Estate, Co-Living]
 tags: [co-living, coliving, market, operators, guests, tenants, silver living]
 description: "Standard Operating Procedures for Silver Living (55+) Independent Senior Co-Living Homes."
-author: Ralph Pombo
----
-# Silver Living (55+)
-### Standard Operating Procedures for Silver Living
-
-*Standard Operating Procedures for Silver Living (55+) Independent Senior Co-Living Homes.*
-
-**Prepared by Ralph Pombo**
-ralphpombo.com | thecolivinginsider.com
-Co-Living Authority Series — For Investor & Operator Use
-© 2026
-
----
----
-title: Silver Living (55+) Master SOP Collection
 subtitle: Standard Operating Procedures for Silver Living (55+) Independent Senior Co-Living Homes
 version: "1.0"
 developed_by: Ralph Pombo
