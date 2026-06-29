@@ -1,3 +1,12 @@
+---
+title: "The Silver Living (55+) Opportunity"
+permalink: /silver-living-opportunity/
+date: 2026-06-29 00:00:00 -0500
+categories: [Real Estate, Co-Living]
+tags: [co-living, market, operators, guests, tenants, silver living]
+description: "The 55+ Co-Living Market: Why Demographics Are Creating a Once-in-a-Generation Opportunity"
+author: Ralph Pombo
+---
 # The Silver Living Opportunity
 ### The 55+ Co-Living Market: Why Demographics Are Creating a Once-in-a-Generation Opportunity
 
