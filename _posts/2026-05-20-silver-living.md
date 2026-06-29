@@ -3,7 +3,7 @@ title: "Silver Living (55+): The Case for Co-Living as the Defining Housing Solu
 for an Aging America"
 permalink: /silver-living/
 date: 2026-05-20 00:00:00 -0500
-categories: [Real Estate, Market, Co-Living]
+categories: [Real Estate, Co-Living]
 tags: [co-living, market, operators, guests, tenants, silver living]
 description: "Why 55+ adults are the most underserved co-living segment — strong payment history, low turnover, and compelling demand economics explained."
 author: Ralph Pombo
