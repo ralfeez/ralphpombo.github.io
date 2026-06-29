@@ -29,13 +29,6 @@ If the answer is no, it doesn't go in. That's the standard.
 | 04 — Finance & Business | Economics of the co-living model |
 | 05 — Community Intelligence | Ground-level signal from operator communities |
 
-The publishing cadence is deliberate. Monday issues focus on regulation and compliance — the area where operators have the most to lose and the least reliable information. Wednesday goes deeper on operations and products. Friday is a deep tip or case study, one insight developed fully rather than five things covered lightly.
-
-| Day | Focus |
-|-----|-------|
-| Monday | Regulation & Compliance — what's moving through state legislatures and city councils |
-| Wednesday | Operations & Products — how to run houses better, and what tools are worth using |
-| Friday | Deep Tip or Case Study — one insight, fully developed, that you can act on immediately |
 
 ## Who It's For — And Who It Isn't
 
