@@ -2,7 +2,7 @@
 title: "Guest Types: The Seven Guest Types of Co-Living"
 permalink: /guest-types/
 date: 2026-05-18 00:00:00 -0500
-categories: [Real Estate, Market]
+categories: [Real Estate, Co-Living]
 tags: [co-living, market, operators, guests, tenants]
 description: "Knowing Your Guest: The Seven Guest Types That Define Co-Living Success"
 author: Ralph Pombo
