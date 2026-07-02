@@ -40,11 +40,12 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/ralfeez # change to your Twitter homepage
-    - https://github.com/ralfeez # change to your GitHub homepage
-    # - https://www.linkedin.com/in/ralphpombo
+    # - https://github.com/ralfeez # change to your GitHub homepage
+    - https://www.linkedin.com/in/ralph-pombo-3b1735408
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://www.facebook.com/ralfeez
     # - https://www.linkedin.com/in/username
+    - https://thecolivinginsider.com
 
 # Site Verification Settings
 webmaster_verifications:
