@@ -10,7 +10,7 @@ My real estate portfolio spans three decades of buying, holding, and selling acr
 
 Those three co-living properties serve distinct resident populations — a Silver Living community for adults 55 and older, a workforce housing home, and a sober living home. Running all three simultaneously has given me a ground-level view of how differently these markets operate, what breaks, and what works.
 
-Before real estate, I spent 25 years as a software engineer and mechanical engineer with a Computer Science degree. That background shapes how I approach co-living — systematically, with frameworks and data rather than gut instinct. It's also why I built tools like CoLivingScore and the Co-Living Furnishing Estimator rather than just writing about the concepts.
+Before real estate, I spent 25 years as a mechanical engineer and software engineer within the Department of Energy. That background shapes how I approach co-living — systematically, with frameworks and data rather than gut instinct. It's also why I built tools like CoLivingScore and the Co-Living Furnishing Estimator rather than just writing about the concepts.
 
 I write the white papers, articles, and operator tools on this site because when I entered co-living three years ago, the information I needed didn't exist in one place. Most of what's published about co-living is either aimed at residents or written by people who have never operated a property. I write for operators and investors who need analysis they can actually use.
 
