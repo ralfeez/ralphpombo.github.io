@@ -3,7 +3,6 @@
 icon: fas fa-info-circle
 order: 4
 ---
-
 I'm Ralph Pombo — a real estate investor, engineer, and co-living operator based in Texas.
 
 My real estate portfolio spans three decades of buying, holding, and selling across multiple asset classes: 15 long-term rentals across Texas, Oregon, and California; vacant land in Florida and California; a short-term rental in Hawaii that ran for six years; and three co-living homes in Texas that are the current focus of my work.
