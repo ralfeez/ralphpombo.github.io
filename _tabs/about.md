@@ -16,7 +16,7 @@ I write the white papers, articles, and operator tools on this site because when
 
 ## What I Write About
 
-My focus is co-living market viability, home configuration, and operator economics — specifically for investors evaluating whether and where to enter the market. I pay particular attention to Silver Living (55+ co-living), which I believe is the most underserved and misunderstood segment in residential real estate today.
+My focus is co-living market viability, home configuration, and operator economics — specifically for investors evaluating whether and where to enter the market. I pay particular attention to Silver Living (55+ co-living), which I believe is the most underserved and misunderstood segment in residential real estate today. I coined the phrase "Silver Living" as a response to the often used term "Golden Girls Housing". I felt as though it was excluding men in the term and needed to include all seniors.
 
 ## Work With Me
 
