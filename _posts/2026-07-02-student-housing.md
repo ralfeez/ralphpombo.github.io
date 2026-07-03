@@ -1066,3 +1066,5 @@ Clara Arroyave-Ramirez | ColivingCashflow.com
 [^49]: Institute of International Education. Fall 2025 Snapshot on International Student Enrollment, November 2025. iie.org; NAFSA: Association of International Educators. Fall 2025 International Student Enrollment Snapshot and Economic Impact, November 2025. nafsa.org. Overall international enrollment: -1%; new international enrollment: -17%; international graduate enrollment: -12%.
 
 [^50]: Cushman & Wakefield Student Housing Trends, October 2025; PwC Emerging Trends in Real Estate 2026; CoreCast 2025 Student Housing Market Update; Yardi Matrix via Multifamily Dive, February 2026.
+
+[Download the White Paper](/assets/Student_Housing_White_Paper_2026.pdf)
