@@ -7,7 +7,7 @@ tags: [co-living, market, operators, guests, tenants, silver living]
 description: "The 55+ Co-Living Market: Why Demographics Are Creating a Once-in-a-Generation Opportunity"
 author: Ralph Pombo
 ---
-# The Silver Living Opportunity
+## The Silver Living Opportunity
 ### The 55+ Co-Living Market: Why Demographics Are Creating a Once-in-a-Generation Opportunity
 
 *An Investor Perspective*
