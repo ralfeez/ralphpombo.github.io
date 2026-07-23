@@ -8,7 +8,7 @@ description: "The Six Conditions That Will Kill Your Co-Living Investment Before
 author: Ralph Pombo
 ---
 
-# MARKET KILLERS
+## MARKET KILLERS
 ## The Six Conditions That Will Kill Your Co-Living Investment Before It Starts
 
 **By Ralph Pombo**
