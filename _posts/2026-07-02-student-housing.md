@@ -7,7 +7,6 @@ tags: [co-living, market, operators, off campus, tenants, student housing]
 description: "The Off-Campus Student Housing Crisis: How the Co-Living Model Solves the Problems Traditional Landlords Won't"
 author: Ralph Pombo, Clara Arroyave-Ramirez
 ---
-*Co-Living Guest Type Series — White Paper*
 
 # The Off-Campus Student Housing Crisis
 
