@@ -7,7 +7,6 @@ tags: [co-living, market, operators, tenants, silver living]
 description: "Silver Living (55+): How and Where to find Silver Living Guests"
 author: Ralph Pombo
 ---
-*Silver Living Guest Acquisition Plan*
 ## Silver Living
 ## Tenant Acquisition Action Plan
 *2026*
