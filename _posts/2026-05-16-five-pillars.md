@@ -7,7 +7,7 @@ tags: [co-living, market, operators, regulation]
 description: "A Practitioner's Framework for Evaluating Markets Before You Commit Capital"
 author: Ralph Pombo
 ---
-# THE FIVE PILLARS OF CO-LIVING MARKET VIABILITY
+## THE FIVE PILLARS OF CO-LIVING MARKET VIABILITY
 ## A Practitioner's Framework for Evaluating Co-Living Markets Before You Commit Capital
 
 **By Ralph Pombo**
