@@ -8,7 +8,7 @@ description: "The Off-Campus Student Housing Crisis: How the Co-Living Model Sol
 author: Ralph Pombo, Clara Arroyave-Ramirez
 ---
 
-# The Off-Campus Student Housing Crisis
+## The Off-Campus Student Housing Crisis
 
 ### How the Co-Living Model Solves the Problems Traditional Landlords Won't
 
