@@ -12,9 +12,7 @@ website: ralphpombo.com
 newsletter: thecolivinginsider.com
 ---
 
-# Silver Living (55+)
-
-## Silver Living (55+) Co-Living Operations
+## Silver Living (55+)
 
 ### MASTER SOP COLLECTION
 
