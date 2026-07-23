@@ -8,7 +8,7 @@ tags: [co-living, market, operators, guests, tenants, silver living]
 description: "Why 55+ adults are the most underserved co-living segment — strong payment history, low turnover, and compelling demand economics explained."
 author: Ralph Pombo
 ---
-# Silver Living (55+)
+## Silver Living (55+)
 ### Co-Living Guest Type Series — White Paper
 
 *The Case for Co-Living as the Defining Housing Solution for an Aging America*
