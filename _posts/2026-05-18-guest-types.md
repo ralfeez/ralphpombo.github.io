@@ -7,7 +7,7 @@ tags: [co-living, market, operators, guests, tenants]
 description: "Knowing Your Guest: The Seven Guest Types That Define Co-Living Success"
 author: Ralph Pombo
 ---
-# Knowing Your Guest: The Seven Guest Types That Define Co-Living Success
+## Knowing Your Guest: The Seven Guest Types That Define Co-Living Success
 
 *A deep-dive into guest psychology, marketing strategy, and portfolio fit*
 
